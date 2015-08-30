@@ -1,0 +1,27 @@
+{
+  "name": "es6-node-elevator",
+  "version": "0.0.0",
+  "description": "Elevate node modules for easy ES6 import.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersDJohnson/es6-node-elevator.git"
+  },
+  "keywords": [
+    "es6",
+    "node",
+    "import",
+    "es2015",
+    "module",
+    "require"
+  ],
+  "author": "Anders D. Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndersDJohnson/es6-node-elevator/issues"
+  },
+  "homepage": "https://github.com/AndersDJohnson/es6-node-elevator#readme"
+}
