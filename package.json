@@ -1,6 +1,6 @@
 {
   "name": "es6-node-elevator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Elevate node modules for easy ES6 import.",
   "main": "index.js",
   "bin": {
