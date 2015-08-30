@@ -4,7 +4,7 @@
   "description": "Elevate node modules for easy ES6 import.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/AndersDJohnson/es6-node-elevator/issues"
   },
-  "homepage": "https://github.com/AndersDJohnson/es6-node-elevator#readme"
+  "homepage": "https://github.com/AndersDJohnson/es6-node-elevator#readme",
+  "dependencies": {
+    "glob": "^5.0.14",
+    "lodash": "^3.10.1"
+  }
 }
