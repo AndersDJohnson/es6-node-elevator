@@ -1,0 +1,3 @@
+var elevator = require('./');
+
+elevator();
