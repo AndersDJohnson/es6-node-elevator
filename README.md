@@ -31,10 +31,14 @@ npm i --save -g es6-node-elevator
 Command line:
 
 ```sh
-es6-node-elevator
+npx es6-node-elevator
 ```
 
 Or programmatically:
+
+```
+npm add -D es6-node-elevator
+```
 
 ```js
 var elevator = require('es6-node-elevator');
