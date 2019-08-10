@@ -16,16 +16,6 @@ Now, with ES6 imports, you can simply:
 import _ from 'node_modules/lodash.js';
 ```
 
-
-## Install
-
-Install via npm:
-
-```sh
-npm i --save -g es6-node-elevator
-```
-
-
 ## Use
 
 Command line:
@@ -36,7 +26,7 @@ npx es6-node-elevator
 
 Or programmatically:
 
-```
+```console
 npm add -D es6-node-elevator
 ```
 
