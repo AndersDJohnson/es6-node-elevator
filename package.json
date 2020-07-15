@@ -29,6 +29,6 @@
   "homepage": "https://github.com/AndersDJohnson/es6-node-elevator#readme",
   "dependencies": {
     "glob": "^5.0.14",
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.19"
   }
 }
